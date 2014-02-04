@@ -1,6 +1,8 @@
 gulp-absurd
 ===========
 
+[![Build Status](https://travis-ci.org/krasimir/gulp-absurd.png?branch=master)](https://travis-ci.org/krasimir/gulp-absurd)
+
 ## Information
 
 <table>
