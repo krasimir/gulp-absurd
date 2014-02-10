@@ -1,7 +1,7 @@
 {
   "name": "gulp-absurd",
   "description": "AbsurdJS plugin for Gulp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/krasimir/gulp-absurd",
   "repository": "git://github.com/krasimir/gulp-absurd.git",
   "author": "Krasimir Tsonev <info@krasimirtsonev.com> (http://krasimirtsonev.com/blog)",
@@ -13,7 +13,7 @@
     "absurdjs"
   ],
   "dependencies": {
-    "absurd": "latest",
+    "absurd": "*",
     "through2": "0.4.1",
     "gulp-util": "2.2.14"
   },
